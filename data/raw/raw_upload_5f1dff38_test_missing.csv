@@ -1,0 +1,7 @@
+date,product_id,units_sold,price,product_name,category,brand,current_inventory,reserved_inventory,incoming_inventory,lead_time_days,minimum_order_quantity,reorder_point,revenue,unit_cost,discount_pct,promotion,holiday_event,rating,review_count,competitor_price
+2026-01-01,P_TEST_01,15,100.0,,,,,,,,,,,,,,,,,
+2026-01-02,P_TEST_01,20,100.0,,,,,,,,,,,,,,,,,
+2026-01-03,P_TEST_01,18,100.0,,,,,,,,,,,,,,,,,
+2026-01-01,P_TEST_02,5,50.0,,,,,,,,,,,,,,,,,
+2026-01-02,P_TEST_02,4,50.0,,,,,,,,,,,,,,,,,
+2026-01-03,P_TEST_02,6,50.0,,,,,,,,,,,,,,,,,

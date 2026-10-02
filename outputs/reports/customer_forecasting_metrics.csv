@@ -1,0 +1,2 @@
+dataset,train_samples,test_samples,mae,rmse,mape_pct
+customer_historical,52,14,33.0519,38.5304,50.95

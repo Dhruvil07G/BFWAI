@@ -1,0 +1,1100 @@
+{
+  "project": "BFWAI",
+  "handoff_version": "1.0",
+  "source": "customer_inventory_upload_30_products_1000_days_balanced.csv",
+  "generated_at": "2026-10-02T14:27:03.697262+00:00",
+  "products": [
+    {
+      "product_id": "P001",
+      "product_name": "Gaming Mouse",
+      "category": "Gaming Accessories",
+      "brand": "Brand_01",
+      "forecast": {
+        "forecast_7d": 183,
+        "forecast_30d": 784,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 239,
+        "reserved_inventory": 2,
+        "incoming_inventory": 6
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 5,
+        "reorder_point": 293
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.5,
+        "market_confidence": 0.8,
+        "market_relevance": 0.9,
+        "evidence_strength": 0.7,
+        "external_signal_available": true,
+        "market_reason": "New product launch combined with positive market demand trends for peripherals indicates favorable conditions.",
+        "key_events": [
+          "NovaTech introduced high precision gaming mouse on 2025-09-20",
+          "Peripheral market trends reported increasing demand for wireless accessories on 2025-09-19"
+        ],
+        "risks": [],
+        "opportunities": [
+          "Capitalize on increasing demand for wireless accessories"
+        ]
+      }
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Mechanical Keyboard",
+      "category": "Gaming Accessories",
+      "brand": "Brand_02",
+      "forecast": {
+        "forecast_7d": 363,
+        "forecast_30d": 1556,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 422,
+        "reserved_inventory": 2,
+        "incoming_inventory": 2
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 20,
+        "reorder_point": 422
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.75,
+        "market_confidence": 0.85,
+        "market_relevance": 0.95,
+        "evidence_strength": 0.8,
+        "external_signal_available": true,
+        "market_reason": "High activity in the mechanical keyboard segment with competitive pricing and new feature releases demonstrates strong consumer engagement.",
+        "key_events": [
+          "Logitech G515 Lightspeed TKL listed for $79.99 on 2026-09-28",
+          "DROP CSTM80 TKL listed for $93.99 on 2026-09-28",
+          "Turtle Beach unveiled Vulcan II XP Air on 2026-09-25",
+          "Yunzii released IF75 QMK/VIA wireless mechanical gaming keyboard on 2026-09-24"
+        ],
+        "risks": [
+          "Intense competition from multiple new releases and aggressive pricing"
+        ],
+        "opportunities": [
+          "Leverage new wireless and hot-swappable switch trends in product positioning"
+        ]
+      }
+    },
+    {
+      "product_id": "P003",
+      "product_name": "Gaming Headset",
+      "category": "Gaming Accessories",
+      "brand": "Brand_03",
+      "forecast": {
+        "forecast_7d": 403,
+        "forecast_30d": 1727,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 638,
+        "reserved_inventory": 4,
+        "incoming_inventory": 5
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 50,
+        "reorder_point": 779
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.6,
+        "market_confidence": 0.8,
+        "market_relevance": 0.9,
+        "evidence_strength": 0.75,
+        "external_signal_available": true,
+        "market_reason": "Widespread promotions and discounts across major gaming headset brands indicate active seasonal sales events.",
+        "key_events": [
+          "Turtle Beach Atlas 200 listed for $34 on 2026-09-28",
+          "EPOS Gaming headsets on sale using coupon code WOOTEPOS on 2026-09-28",
+          "JLab Feel Alive promo code offered 30% off on 2026-09-27",
+          "Corsair gaming headsets discounted ahead of Prime Big Deal Days on 2026-09-27",
+          "Razer BlackShark V3 Wireless listed for $68.54 on 2026-09-27"
+        ],
+        "risks": [
+          "Downward price pressure from extensive promotional discounting"
+        ],
+        "opportunities": [
+          "Participate in promotional sales events like Prime Big Deal Days"
+        ]
+      }
+    },
+    {
+      "product_id": "P004",
+      "product_name": "USB-C Hub",
+      "category": "Computer Accessories",
+      "brand": "Brand_04",
+      "forecast": {
+        "forecast_7d": 408,
+        "forecast_30d": 1749,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 384,
+        "reserved_inventory": 6,
+        "incoming_inventory": 7
+      },
+      "supplier": {
+        "lead_time_days": 4,
+        "minimum_order_quantity": 10,
+        "reorder_point": 448
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Retrieved articles are completely unrelated to USB-C hubs, providing no actionable market intelligence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P005",
+      "product_name": "Webcam",
+      "category": "Computer Accessories",
+      "brand": "Brand_05",
+      "forecast": {
+        "forecast_7d": 377,
+        "forecast_30d": 1616,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 448,
+        "reserved_inventory": 4,
+        "incoming_inventory": 6
+      },
+      "supplier": {
+        "lead_time_days": 3,
+        "minimum_order_quantity": 25,
+        "reorder_point": 336
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady, reliable market conditions without major disruption.",
+        "key_events": [
+          "Consumer demand dynamics reported for USB-C Hub 7-in-1 on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [
+          "Lack of high-growth catalysts in current stable demand pattern"
+        ],
+        "opportunities": [
+          "Maintain consistent supply chain execution during stable market conditions"
+        ]
+      }
+    },
+    {
+      "product_id": "P006",
+      "product_name": "Laptop Stand",
+      "category": "Computer Accessories",
+      "brand": "Brand_06",
+      "forecast": {
+        "forecast_7d": 357,
+        "forecast_30d": 1530,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 282,
+        "reserved_inventory": 0,
+        "incoming_inventory": 8
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 10,
+        "reorder_point": 451
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Content is entirely unrelated to laptop stands.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P007",
+      "product_name": "Bluetooth Speaker",
+      "category": "Audio",
+      "brand": "Brand_07",
+      "forecast": {
+        "forecast_7d": 483,
+        "forecast_30d": 2070,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 668,
+        "reserved_inventory": 0,
+        "incoming_inventory": 16
+      },
+      "supplier": {
+        "lead_time_days": 3,
+        "minimum_order_quantity": 10,
+        "reorder_point": 446
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.6,
+        "market_confidence": 0.8,
+        "market_relevance": 0.85,
+        "evidence_strength": 0.75,
+        "external_signal_available": true,
+        "market_reason": "Frequent promotional discounting across multiple brands indicates a highly competitive price-sensitive market.",
+        "key_events": [
+          "TALIX Laptop Power Bank listed at $29.99 with code on 2026-09-23",
+          "GREPRO 100W Laptop Power Bank listed at $34.99 with code on 2026-09-07",
+          "Xiaomi Power Bank 20000mAh listed at $28.50 on 2026-09-05",
+          "JUOVI 65W Portable Charger listed at $30.99 on 2026-09-05"
+        ],
+        "risks": [
+          "Margin compression due to widespread promotional pricing"
+        ],
+        "opportunities": [
+          "Use targeted promotional codes to capture price-sensitive buyers"
+        ]
+      }
+    },
+    {
+      "product_id": "P008",
+      "product_name": "Wireless Earbuds",
+      "category": "Audio",
+      "brand": "Brand_08",
+      "forecast": {
+        "forecast_7d": 445,
+        "forecast_30d": 1907,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 377,
+        "reserved_inventory": 5,
+        "incoming_inventory": 15
+      },
+      "supplier": {
+        "lead_time_days": 7,
+        "minimum_order_quantity": 50,
+        "reorder_point": 755
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.2,
+        "market_confidence": 0.4,
+        "market_relevance": 0.3,
+        "evidence_strength": 0.3,
+        "external_signal_available": true,
+        "market_reason": "Only tangential relevance regarding general fast charging accessories.",
+        "key_events": [
+          "Cult of Mac published guide on fast charging iPhone 18 Pro on 2026-09-20"
+        ],
+        "risks": [],
+        "opportunities": [
+          "Align charging compatibility with new smartphone charging standards"
+        ]
+      }
+    },
+    {
+      "product_id": "P009",
+      "product_name": "Soundbar",
+      "category": "Audio",
+      "brand": "Brand_09",
+      "forecast": {
+        "forecast_7d": 442,
+        "forecast_30d": 1894,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 407,
+        "reserved_inventory": 3,
+        "incoming_inventory": 9
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 50,
+        "reorder_point": 747
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.65,
+        "market_confidence": 0.8,
+        "market_relevance": 0.85,
+        "evidence_strength": 0.75,
+        "external_signal_available": true,
+        "market_reason": "Active product launches, changing consumer preference signals toward wired options, and generational price drops create dynamic market activity.",
+        "key_events": [
+          "Bose launched new wired earbuds on 2026-09-28",
+          "Noble FoKus Amadeus maintains $320 price point since June 2025 on 2026-09-28",
+          "Sennheiser Momentum True Wireless 5 release reduced price of True Wireless 4 to $248 on 2026-09-28"
+        ],
+        "risks": [
+          "Shifts in consumer preference between wired and wireless formats"
+        ],
+        "opportunities": [
+          "Capitalize on renewed interest in wired audio options"
+        ]
+      }
+    },
+    {
+      "product_id": "P010",
+      "product_name": "Power Bank",
+      "category": "Mobile Accessories",
+      "brand": "Brand_10",
+      "forecast": {
+        "forecast_7d": 407,
+        "forecast_30d": 1744,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 376,
+        "reserved_inventory": 3,
+        "incoming_inventory": 9
+      },
+      "supplier": {
+        "lead_time_days": 4,
+        "minimum_order_quantity": 50,
+        "reorder_point": 438
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Articles do not contain relevant information for power banks.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P011",
+      "product_name": "Fast Charger",
+      "category": "Mobile Accessories",
+      "brand": "Brand_01",
+      "forecast": {
+        "forecast_7d": 224,
+        "forecast_30d": 960,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 750,
+        "reserved_inventory": 2,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 4,
+        "minimum_order_quantity": 5,
+        "reorder_point": 228
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Retrieved articles are completely irrelevant to fast chargers.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P012",
+      "product_name": "Phone Case",
+      "category": "Mobile Accessories",
+      "brand": "Brand_02",
+      "forecast": {
+        "forecast_7d": 267,
+        "forecast_30d": 1144,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 886,
+        "reserved_inventory": 4,
+        "incoming_inventory": 1
+      },
+      "supplier": {
+        "lead_time_days": 6,
+        "minimum_order_quantity": 25,
+        "reorder_point": 346
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Articles do not pertain to phone cases.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P013",
+      "product_name": "Smart Bulb",
+      "category": "Smart Home",
+      "brand": "Brand_03",
+      "forecast": {
+        "forecast_7d": 315,
+        "forecast_30d": 1350,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 1053,
+        "reserved_inventory": 0,
+        "incoming_inventory": 5
+      },
+      "supplier": {
+        "lead_time_days": 6,
+        "minimum_order_quantity": 10,
+        "reorder_point": 412
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Article is entirely unrelated to smart home products.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P014",
+      "product_name": "Smart Plug",
+      "category": "Smart Home",
+      "brand": "Brand_04",
+      "forecast": {
+        "forecast_7d": 329,
+        "forecast_30d": 1410,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 1381,
+        "reserved_inventory": 3,
+        "incoming_inventory": 4
+      },
+      "supplier": {
+        "lead_time_days": 4,
+        "minimum_order_quantity": 50,
+        "reorder_point": 322
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Content is unrelated to smart plugs.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P015",
+      "product_name": "Robot Vacuum",
+      "category": "Smart Home",
+      "brand": "Brand_05",
+      "forecast": {
+        "forecast_7d": 201,
+        "forecast_30d": 861,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 754,
+        "reserved_inventory": 2,
+        "incoming_inventory": 2
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 10,
+        "reorder_point": 241
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.2,
+        "market_confidence": 0.3,
+        "market_relevance": 0.2,
+        "evidence_strength": 0.2,
+        "external_signal_available": true,
+        "market_reason": "Evidence primarily concerns security cameras and unrelated local news rather than robot vacuums.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P016",
+      "product_name": "Wi-Fi Router",
+      "category": "Networking",
+      "brand": "Brand_06",
+      "forecast": {
+        "forecast_7d": 231,
+        "forecast_30d": 990,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 942,
+        "reserved_inventory": 1,
+        "incoming_inventory": 4
+      },
+      "supplier": {
+        "lead_time_days": 7,
+        "minimum_order_quantity": 20,
+        "reorder_point": 336
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.2,
+        "market_confidence": 0.3,
+        "market_relevance": 0.2,
+        "evidence_strength": 0.2,
+        "external_signal_available": true,
+        "market_reason": "Articles focus on desk lamps instead of networking hardware.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P017",
+      "product_name": "Wi-Fi Extender",
+      "category": "Networking",
+      "brand": "Brand_07",
+      "forecast": {
+        "forecast_7d": 335,
+        "forecast_30d": 1436,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 1406,
+        "reserved_inventory": 2,
+        "incoming_inventory": 8
+      },
+      "supplier": {
+        "lead_time_days": 9,
+        "minimum_order_quantity": 10,
+        "reorder_point": 625
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Data indicates stable category conditions, though titled under kitchen appliances rather than Wi-Fi extenders.",
+        "key_events": [
+          "Consumer demand dynamics reported on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P018",
+      "product_name": "Network Switch",
+      "category": "Networking",
+      "brand": "Brand_08",
+      "forecast": {
+        "forecast_7d": 160,
+        "forecast_30d": 686,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 517,
+        "reserved_inventory": 2,
+        "incoming_inventory": 6
+      },
+      "supplier": {
+        "lead_time_days": 3,
+        "minimum_order_quantity": 10,
+        "reorder_point": 141
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.6,
+        "market_confidence": 0.8,
+        "market_relevance": 0.85,
+        "evidence_strength": 0.75,
+        "external_signal_available": true,
+        "market_reason": "Active discounting and deals on electric kettles indicate strong promotional activity in the category.",
+        "key_events": [
+          "Fellow Stagg EKG Electric Kettle offered with $30 manufacturer savings between 2026-09-21 and 2026-10-04",
+          "Amazon Basics Stainless Steel Electric Kettle listed at $12.60 on 2026-09-15",
+          "Govee Smart Electric Gooseneck Kettle offered at $55.99 on 2026-09-14"
+        ],
+        "risks": [
+          "Competitive pricing pressure across electric kettle brands"
+        ],
+        "opportunities": [
+          "Leverage promotional discounting to drive sales volume"
+        ]
+      }
+    },
+    {
+      "product_id": "P019",
+      "product_name": "Portable SSD",
+      "category": "Storage",
+      "brand": "Brand_09",
+      "forecast": {
+        "forecast_7d": 122,
+        "forecast_30d": 523,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 401,
+        "reserved_inventory": 1,
+        "incoming_inventory": 2
+      },
+      "supplier": {
+        "lead_time_days": 7,
+        "minimum_order_quantity": 5,
+        "reorder_point": 182
+      },
+      "market_intelligence": {
+        "market_signal": "positive",
+        "market_impact": 0.75,
+        "market_confidence": 0.85,
+        "market_relevance": 0.9,
+        "evidence_strength": 0.8,
+        "external_signal_available": true,
+        "market_reason": "Heavy discounting and multiple flagship cleaner promotions during Fall Prime Day drive high market visibility and consumer interest.",
+        "key_events": [
+          "Narwal Freo 20 Edge reviewed at discounted price of $699.99 on 2026-09-28",
+          "Roborock flagship cleaners heavily discounted for Fall Prime Day on 2026-09-28",
+          "Ecovacs Deebot T90 Pro Omni listed at $499.00 on 2026-09-27",
+          "iRobot Roomba 415X listed at $398.99 on 2026-09-27"
+        ],
+        "risks": [
+          "Intense price competition during major promotional events"
+        ],
+        "opportunities": [
+          "Capitalize on Fall Prime Day shopping traffic with competitive offerings"
+        ]
+      }
+    },
+    {
+      "product_id": "P020",
+      "product_name": "USB Flash Drive",
+      "category": "Storage",
+      "brand": "Brand_10",
+      "forecast": {
+        "forecast_7d": 283,
+        "forecast_30d": 1213,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 1019,
+        "reserved_inventory": 3,
+        "incoming_inventory": 1
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 50,
+        "reorder_point": 448
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.1,
+        "market_confidence": 0.2,
+        "market_relevance": 0.1,
+        "evidence_strength": 0.1,
+        "external_signal_available": true,
+        "market_reason": "Retrieved content is unrelated to USB flash drives.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P021",
+      "product_name": "Memory Card",
+      "category": "Storage",
+      "brand": "Brand_01",
+      "forecast": {
+        "forecast_7d": 168,
+        "forecast_30d": 720,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 2655,
+        "reserved_inventory": 0,
+        "incoming_inventory": 5
+      },
+      "supplier": {
+        "lead_time_days": 9,
+        "minimum_order_quantity": 25,
+        "reorder_point": 306
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Memory Card on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P022",
+      "product_name": "Office Chair",
+      "category": "Office Equipment",
+      "brand": "Brand_02",
+      "forecast": {
+        "forecast_7d": 102,
+        "forecast_30d": 437,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 1365,
+        "reserved_inventory": 1,
+        "incoming_inventory": 3
+      },
+      "supplier": {
+        "lead_time_days": 6,
+        "minimum_order_quantity": 20,
+        "reorder_point": 135
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Office Chair on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P023",
+      "product_name": "Desk Lamp",
+      "category": "Office Equipment",
+      "brand": "Brand_03",
+      "forecast": {
+        "forecast_7d": 164,
+        "forecast_30d": 703,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 1980,
+        "reserved_inventory": 1,
+        "incoming_inventory": 3
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 20,
+        "reorder_point": 259
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Desk Lamp on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P024",
+      "product_name": "Monitor Stand",
+      "category": "Office Equipment",
+      "brand": "Brand_04",
+      "forecast": {
+        "forecast_7d": 127,
+        "forecast_30d": 544,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 2063,
+        "reserved_inventory": 1,
+        "incoming_inventory": 1
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 50,
+        "reorder_point": 156
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Monitor Stand on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P025",
+      "product_name": "Air Fryer",
+      "category": "Home Appliances",
+      "brand": "Brand_05",
+      "forecast": {
+        "forecast_7d": 150,
+        "forecast_30d": 643,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 2204,
+        "reserved_inventory": 0,
+        "incoming_inventory": 1
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 50,
+        "reorder_point": 245
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Air Fryer on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P026",
+      "product_name": "Electric Kettle",
+      "category": "Home Appliances",
+      "brand": "Brand_06",
+      "forecast": {
+        "forecast_7d": 195,
+        "forecast_30d": 836,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 2958,
+        "reserved_inventory": 0,
+        "incoming_inventory": 7
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 20,
+        "reorder_point": 217
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Electric Kettle on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P027",
+      "product_name": "Mixer Grinder",
+      "category": "Home Appliances",
+      "brand": "Brand_07",
+      "forecast": {
+        "forecast_7d": 139,
+        "forecast_30d": 596,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 1846,
+        "reserved_inventory": 1,
+        "incoming_inventory": 4
+      },
+      "supplier": {
+        "lead_time_days": 6,
+        "minimum_order_quantity": 50,
+        "reorder_point": 181
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Mixer Grinder on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P028",
+      "product_name": "24-inch Monitor",
+      "category": "Monitors",
+      "brand": "Brand_08",
+      "forecast": {
+        "forecast_7d": 207,
+        "forecast_30d": 887,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 2741,
+        "reserved_inventory": 1,
+        "incoming_inventory": 3
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 5,
+        "reorder_point": 224
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for 24-inch Monitor on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P029",
+      "product_name": "27-inch Monitor",
+      "category": "Monitors",
+      "brand": "Brand_09",
+      "forecast": {
+        "forecast_7d": 129,
+        "forecast_30d": 553,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 1754,
+        "reserved_inventory": 1,
+        "incoming_inventory": 1
+      },
+      "supplier": {
+        "lead_time_days": 7,
+        "minimum_order_quantity": 50,
+        "reorder_point": 174
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for 27-inch Monitor on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P030",
+      "product_name": "Ultrawide Monitor",
+      "category": "Monitors",
+      "brand": "Brand_10",
+      "forecast": {
+        "forecast_7d": 109,
+        "forecast_30d": 467,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 853,
+        "reserved_inventory": 1,
+        "incoming_inventory": 2
+      },
+      "supplier": {
+        "lead_time_days": 5,
+        "minimum_order_quantity": 5,
+        "reorder_point": 80
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.4,
+        "market_confidence": 0.7,
+        "market_relevance": 0.8,
+        "evidence_strength": 0.6,
+        "external_signal_available": true,
+        "market_reason": "Stable demand and manufacturing throughput indicate steady market conditions.",
+        "key_events": [
+          "Consumer demand dynamics reported for Ultrawide Monitor on 2025-09-15",
+          "Supply chain and logistics update reported stable throughput on 2025-09-14"
+        ],
+        "risks": [],
+        "opportunities": []
+      }
+    }
+  ]
+}

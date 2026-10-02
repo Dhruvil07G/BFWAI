@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Vulnerability Summary for the Week of September 21, 2026",
+    "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country \u2026",
+    "source": "Cisa.gov",
+    "published_at": "2026-09-28T11:32:46Z",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-271"
+  },
+  {
+    "title": "TCL Nxtpaper 11 Plus Review: A Flexible Matte Display for Reading, But Performance Lags",
+    "description": "The $369.99 TCL Nxtpaper 11 Plus is an Android tablet with a twist: a special matte screen with three selectable modes. It's also bundled with a stylus for sketching and note-taking, and a stand case for hands-free viewing. After testing the 11 Plus for two \u2026",
+    "source": "PCMag.com",
+    "published_at": "2026-09-27T14:00:00Z",
+    "url": "https://uk.pcmag.com/tablets/167519/tcl-nxtpaper-11-plus-review-a-flexible-matte-display-for-reading-but-performance-lags"
+  },
+  {
+    "title": "2027: Atiku, APC clash over economy, corruption allegations",
+    "description": "Atiku Abubakar of the ADC and the ruling APC have clashed over Nigeria\u2019s economy and corruption allegations ahead of the 2027 presidential election.\n\nRead More: https://punchng.com/2027-atiku-apc-clash-over-economy-corruption-allegations-2/",
+    "source": "The Punch",
+    "published_at": "2026-09-24T23:21:47Z",
+    "url": "https://punchng.com/2027-atiku-apc-clash-over-economy-corruption-allegations-2/"
+  },
+  {
+    "title": "Show HN: GoNix \u2013 A Unix with a Go Userspace",
+    "description": "A UNIX-like operating system on the Linux kernel, with the userspace \u2014 init, coreutils, networking, services and SSH \u2014 written mostly in Go.\n\nComments URL: https://news.ycombinator.com/item?id=49813901\nPoints: 3\n# Comments: 1",
+    "source": "Gonix.dev",
+    "published_at": "2026-09-23T10:19:54Z",
+    "url": "https://gonix.dev/index.html"
+  },
+  {
+    "title": "Not Gemini, Not Gmail: Google Pixel 11 User Discovers What Really Drains The Battery",
+    "description": "If you own a Google Pixel  11 and have noticed issues with your battery draining too fast, the problem might not be with your phone.",
+    "source": "BGR",
+    "published_at": "2026-09-22T19:32:00Z",
+    "url": "https://www.bgr.com/2265658/google-pixel-11-user-discovers-what-drains-the-battery/"
+  }
+]
